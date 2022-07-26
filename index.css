@@ -1,0 +1,86 @@
+img{
+    height: 100px;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: grey;
+}
+.top{
+    text-align: center;
+    background-color: rgb(192, 255, 234);
+    top: 0;
+    height: 600px;
+    font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif; 
+    font-size: 25px;
+    font-family: 'Sacramento', cursive; 
+}
+#sun{
+  border-radius: 100%;
+}
+.cloudup{
+    position: relative;
+    left: 200px;
+    height: 120px;
+}
+h1{
+    margin-top: 0;
+    color:#66BFBF;
+}
+body{
+    font-family: 'Merriweather', serif;
+    margin-top: 0;
+     text-align: center;
+}
+.cloud{
+     position: relative;
+     right: 200px;
+     height: 120px;
+}
+.mount{
+    position: relative;
+    bottom: 150px;
+    height: 300px;
+
+}
+.skill-row{
+    width: 50%;
+    /* position: relative; */
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1;
+}
+.skill{
+    float: left;
+    margin-right: 29px;    
+}
+.project{
+    float: right;
+    position: relative;
+    right: 120px;
+}
+#pro{
+    text-align:center;
+    position: relative;
+    left: 35px;
+    /* float: left; */
+}
+.button{
+    background-color:#66BFBF;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    margin-bottom: 30px;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+}
+.bottom-container{
+     height: 100px;
+   background-color: #66BFBF;
+}
+.footer-link{
+    color: black;
+    text-decoration: none;
+    margin: 5px;
+}
