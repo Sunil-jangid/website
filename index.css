@@ -56,7 +56,7 @@ body{
 .project{
     float: right;
     position: relative;
-    right: 120px;
+      right: 10%;
 }
 #pro{
     text-align:center;
