@@ -87,3 +87,6 @@ body{
     text-decoration: none;
     margin: 5px;
 }
+.btn:hover{
+    color: rgb(10, 21, 17);
+}
